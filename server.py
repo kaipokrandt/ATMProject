@@ -1,3 +1,6 @@
+# KAI POKRANDT
+# 010925472
+
 import socket
 import threading
 
